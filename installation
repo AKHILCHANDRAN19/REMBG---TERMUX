@@ -1,0 +1,10 @@
+pkg install python
+pkg install libjpeg-turbo
+pkg install libpng
+pkg install zlib
+pkg install git
+pkg install cmake
+pkg install clang
+pkg install rust
+pip install wheel setuptools numpy
+pip install rembg --no-deps
